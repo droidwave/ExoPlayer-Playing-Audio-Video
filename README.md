@@ -9,5 +9,6 @@ I have created a ExoPlayer Manager You have to call just below code
         PlayerManager.getSharedInstance(this).setPlayerListener(this);
         
         
-        Read Full Article 
-        https://androidwave.com/how-to-use-exoplayer-playing-audio-video/
+        
+    Read Full Article 
+    https://androidwave.com/how-to-use-exoplayer-playing-audio-video/
